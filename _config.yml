@@ -1,0 +1,6 @@
+author: Maksym Dolgykh
+repository: https://maksymdolgykh.github.io/docker-library
+google_site_verification: O4U1_nz2en_ImlO-GKIKxGofqKJ9u2us99PohiCouwY
+plugins:
+  - jekyll-sitemap
+

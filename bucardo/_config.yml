@@ -1,0 +1,8 @@
+author: Maksym Dolgykh
+title: bucardo docker image
+description: Docker image to run bucardo replication system for PostgreSQL
+repository: https://maksymdolgykh.github.io/docker-library/bucardo
+google_site_verification: O4U1_nz2en_ImlO-GKIKxGofqKJ9u2us99PohiCouwY
+plugins:
+  - jekyll-sitemap
+
