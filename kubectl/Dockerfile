@@ -10,3 +10,4 @@ RUN curl -o /usr/local/bin/kubectl \
 RUN chmod +x /usr/local/bin/kubectl
 
 ENTRYPOINT ["/usr/bin/env", "bash", "-c"]
+
